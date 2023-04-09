@@ -127,6 +127,7 @@ header{
 }
 .Chatbox{
    background-color: white;
+   /* background-image: url(woman.jpg); */
 }
 .adam{
     margin-top: 10px;
@@ -212,13 +213,7 @@ a:active{
     }
 
 }
-@media(max-width:548px){
-    .left{
-        display:none;
-      /* vertical-align: baseline; */
 
-    }
-}
 @media(max-width:515px){
     *{
         /* margin: 0px; */
